@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning mean stack 
 - 📫 How to reach me: meriembenfadhel@outlook.com
 - ⚡ Fun fact: I love singing when there's nobody listening
-- :spaghetti: 
+

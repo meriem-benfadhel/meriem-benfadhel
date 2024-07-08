@@ -1,4 +1,4 @@
-### Hi there 👋 I'm mimi-manman as my little sister calls me 
+### Hi there 👋
 
 <!--
 **meriem-benfadhel/meriem-benfadhel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
